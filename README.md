@@ -39,6 +39,7 @@ Designed with smooth scrolling, optimized state management, and premium UI inter
 
 ## 📁 Project Structure
 
+```
 lib/
 │
 ├── models/
@@ -47,8 +48,7 @@ lib/
 ├── widgets/
 ├── screens/
 └── main.dart
-
----
+```
 
 ## ▶️ Run Project
 
